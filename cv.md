@@ -20,8 +20,8 @@ Every day I go to my goal and I hope together with you we will achieve our resul
 
 ## Code Example
 ```
-function multiply(a, b) {
-  return a * b;
+function getDecimal(n){
+  return Math.abs(n % 1)
 }
 ```
 
