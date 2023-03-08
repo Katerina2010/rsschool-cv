@@ -3,7 +3,7 @@
 ## Contacts
 -	Discord: Katerina#8270
 -	E-mail: e.bolshakova2010@gmail.ru
--	Tel:  +79773310081
+-	Telegram: @KatiBoldan 
 
 ## About me
 Let’s introduce myself: I’m a mother on maternity leave. 
@@ -30,7 +30,8 @@ function multiply(a, b) {
 -   CSS базовый курс на Code Basics
 -   Basics of site layout (Netology)
 -	JS базовый курс на Code Basics
+-	Подготовительный курс «JavaScript/Front-end. Stage 0» PS-School
 
 ## Languages
--	English - A1
--	Russian - native speaker
+-	English - A2
+-	Russian - native 
